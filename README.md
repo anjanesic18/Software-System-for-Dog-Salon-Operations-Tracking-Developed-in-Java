@@ -39,14 +39,8 @@ Client (Swing)  <──TCP socket, port 9000──>  Server  <──JDBC──> 
 
 | | | |
 |:---:|:---:|:---:|
-| **Server — before start**<br><img width="720" height="412" alt="image" src="https://github.com/user-attachments/assets/1819e9c6-986e-439d-ae27-efc0265f2801" />
-E (server before start) | **Server — running**<br><img width="717" height="412" alt="image" src="https://github.com/user-attachments/assets/a62ae950-8702-406d-b195-0a9f39851b23" />
- (server running) | **Login**<br><img width="518" height="316" alt="image" src="https://github.com/user-attachments/assets/6c9a0fb5-e917-4e7b-8f2e-7f1192bf3127" />
- (login form) |
-| **Main form — create invoice**<br><img width="801" height="770" alt="image" src="https://github.com/user-attachments/assets/54c2d80a-d366-4571-8514-03461330eee3" />
- (main form / invoice) | **Add pet owner**<br><img width="542" height="501" alt="image" src="https://github.com/user-attachments/assets/e31c08e1-daaf-40f5-a60b-1e5c3c0dc984" />
-(add pet owner form) | **Add shift**<br><img width="453" height="372" alt="image" src="https://github.com/user-attachments/assets/c66ac5a2-e1d0-4608-84e0-61bed16ac765" />
-E (add shift form) |
+| **Server — before start**<br><img width="220" alt="Server form before start" src="https://github.com/user-attachments/assets/1819e9c6-986e-439d-ae27-efc0265f2801" /> | **Server — running**<br><img width="220" alt="Server form running" src="https://github.com/user-attachments/assets/a62ae950-8702-406d-b195-0a9f39851b23" /> | **Login**<br><img width="220" alt="Login form" src="https://github.com/user-attachments/assets/6c9a0fb5-e917-4e7b-8f2e-7f1192bf3127" /> |
+| **Main form — create invoice**<br><img width="220" alt="Main form for creating an invoice" src="https://github.com/user-attachments/assets/54c2d80a-d366-4571-8514-03461330eee3" /> | **Add pet owner**<br><img width="220" alt="Add pet owner form" src="https://github.com/user-attachments/assets/e31c08e1-daaf-40f5-a60b-1e5c3c0dc984" /> | **Add shift**<br><img width="220" alt="Add shift form" src="https://github.com/user-attachments/assets/c66ac5a2-e1d0-4608-84e0-61bed16ac765" /> |
 
 ## 🗄️ Database
 
